@@ -1,4 +1,3 @@
-// @ts-expect-error CSS imports are handled by the framework's bundler.
 import "./globals.css";
 export const metadata = { title: "Gimshan | Full-Stack Developer & UI/UX Designer", description: "Portfolio of Gimshan (Shan)" };
 export default function Root({ children }: { children: React.ReactNode }) {
